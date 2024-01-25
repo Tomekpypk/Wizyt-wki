@@ -100,7 +100,7 @@ def sluzbowo():
     print("5. Jay_1")
     print("6. inny")
 
-print("Wpisz imię osoby, do której chcesz zadzwonić!")
+print("Witaj!")
 
 def calling():
     ask = input("Kontaktujesz się prywatnie czy służbowo: ")
